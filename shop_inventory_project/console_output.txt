@@ -1,0 +1,22 @@
+==================================================
+SHOP INVENTORY DATA ANALYSIS & DASHBOARD
+==================================================
+
+[INFO] Initializing Data Cleaning...
+Original dataset shape: (100, 5) (Checking for Null Values)
+Cleaned dataset shape:  (97, 5) (Null Values Removed)
+
+--------------------------------------------------
+MODEL 1: LINEAR REGRESSION
+--------------------------------------------------
+[SUCCESS] Linear Regression model trained.
+[RESULT] Mean Squared Error: 31.50
+
+--------------------------------------------------
+MODEL 2: LOGISTIC REGRESSION
+--------------------------------------------------
+[SUCCESS] Logistic Regression model trained.
+[RESULT] Classification Accuracy: 65.00%
+==================================================
+[OUTPUT] Dashboard saved as dashboard_output.png
+[INFO] Run completed successfully.
